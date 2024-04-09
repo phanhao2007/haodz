@@ -58,6 +58,7 @@ let products = {
     ]
 }
 for (let items of products.data) {
+    
 
     let card = document.createElement("div")
     card.classList.add("card")
